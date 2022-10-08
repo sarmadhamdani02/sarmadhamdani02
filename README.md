@@ -5,7 +5,7 @@
 
 <style>
 *{
-  color:hotpink;
+  color:"hotpink";
   }
 </style>
 
