@@ -4,7 +4,7 @@
 [![MasterHead](https://miro.medium.com/max/1050/1*jB76MLZjiNhGSQQvxm7LSQ.gif)]
 
 <h1 align="center">Hello 👋, Sarmad Hamdani</h1>
-<h3 align="center">Trying to be a Web Developer :)</h3>
+<h3 align="center">let us CTRL+S the world! ᕙ⁠(⁠ ⁠ ⁠•⁠ ⁠‿⁠ ⁠•⁠ ⁠ ⁠)⁠ᕗ</h3>
 
 <img src="https://i.gifer.com/7jd9.gif">
 
