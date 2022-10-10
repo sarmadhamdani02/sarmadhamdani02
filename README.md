@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sarmadfarooqhamdani@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shah sarmad hamdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah sarmad hamdani" height="30" width="40" /></a>
 <a href="https://instagram.com/@sarmad_hamdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sarmad_hamdani" height="30" width="40" /></a>
