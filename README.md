@@ -3,7 +3,13 @@
 <!-- [![MasterHead](https://blog.zoho.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-06-at-6.49.00-PM.png)] -->
 <!-- [![MasterHead](https://miro.medium.com/max/1050/1*jB76MLZjiNhGSQQvxm7LSQ.gif)] -->
 
-<h1 align="center">Hello 👋, Sarmad Hamdani here</h1>
+<style>
+h1{
+  color:pink;
+}
+</style>
+
+<h1 align="center">Hi 👋, Sarmad Hamdani here </h1>
 <h3 align="center">let us CTRL+S the world! ᕙ⁠(⁠ ⁠ ⁠•⁠ ⁠‿⁠ ⁠•⁠ ⁠ ⁠)⁠ᕗ</h3>
 
 <img src="https://i.gifer.com/7jd9.gif">
