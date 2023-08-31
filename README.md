@@ -1,10 +1,10 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsarmadhamdani02&label=Visitors&labelColor=%23263759&countColor=%2337d67a&style=flat&labelStyle=none" />
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+1+Code&weight=500&size=30&duration=3000&pause=500&color=44F748&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;Assalam-o-Alaikum!+%F0%9F%99%82" alt="Typing SVG" /></a>
+<a href="https://github.com/sarmadhamdani02"><img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+1+Code&weight=500&size=30&duration=3000&pause=500&color=44F748&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;Assalam-o-Alaikum!+%F0%9F%99%82" alt="Typing SVG" /></a>
 </h1>
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&weight=500&size=50&duration=1000&pause=500&color=93F7DB&center=true&vCenter=true&repeat=false&width=635&lines=Shah+Sarmad+Hamdani" alt="Typing SVG" /></a>
+  <a href="https://github.com/sarmadhamdani02"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&weight=500&size=50&duration=1000&pause=500&color=93F7DB&center=true&vCenter=true&repeat=false&width=635&lines=Shah+Sarmad+Hamdani" alt="Typing SVG" /></a>
 </h1>- 🌱 I’m currently learning **Front End Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarmadhamdani02?tab=repositories](https://github.com/sarmadhamdani02?tab=repositories)
