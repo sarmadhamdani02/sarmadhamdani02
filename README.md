@@ -1,22 +1,91 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsarmadhamdani02&label=Visitors&labelColor=%23263759&countColor=%2337d67a&style=flat&labelStyle=none" />
 
 <h1 align="center">
-<a href="https://github.com/sarmadhamdani02"><img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+1+Code&weight=500&size=30&duration=3000&pause=500&color=44F748&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;Assalam-o-Alaikum!+%F0%9F%99%82" alt="Typing SVG" /></a>
+  <a href="https://github.com/sarmadhamdani02">
+    <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+1+Code&weight=500&size=30&duration=3000&pause=500&color=44F748&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;Assalam-o-Alaikum!+%F0%9F%99%82" alt="Typing SVG" />
+  </a>
 </h1>
+
 <h1 align="center">
-  <a href="https://github.com/sarmadhamdani02"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&weight=500&size=50&duration=1000&pause=500&color=93F7DB&center=true&vCenter=true&repeat=false&width=635&lines=Shah+Sarmad+Hamdani" alt="Typing SVG" /></a>
-</h1>- 🌱 I’m currently learning **Front End Web Development**
+  <a href="https://github.com/sarmadhamdani02">
+    <img src="https://readme-typing-svg.herokuapp.com?font=fira+code&weight=500&size=50&duration=1000&pause=500&color=93F7DB&center=true&vCenter=true&repeat=false&width=635&lines=Shah+Sarmad+Hamdani" alt="Typing SVG" />
+  </a>
+</h1>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sarmadhamdani02?tab=repositories](https://github.com/sarmadhamdani02?tab=repositories)
+---
 
-- 📫 How to reach me **sarmadfarooqhamdani@gmail.com**
+### 🚀 About Me
+- 🎓 **BS Computer Science (Final Year Student) at COMSATS University, Islamabad, Attock Campus**
+- 💻 **MERN Stack Developer | AI Enthusiast | Open Source Contributor**
+- ⚡ **Currently Learning:** Advanced Next.js, LangChain, LLM Integration
+- 🔥 **Passionate About:** Web Development, AI, Competitive Programming
+- 🌱 **Building:** AI-driven and SaaS-based projects
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🏆 Work & Projects
+#### 🔹 **[Promptify](https://github.com/sarmadhamdani02/Promptify-)** (Next.js, TypeScript)  
+AI-powered prompt generation tool with community-driven features. Optimized for speed and UX.
+
+#### 🔹 **[WebGames](https://github.com/sarmadhamdani02/WebGames)** (JavaScript, HTML, CSS)  
+A collection of fun and interactive web-based games with open-source contributions.
+
+#### 🔹 **[Blogistan](https://github.com/sarmadhamdani02/Blogistan-BlogApp)** (React, Appwrite)  
+A dynamic blogging platform with authentication and content management features.
+
+#### 🔹 **[Try-Catch-Error Snippet](https://github.com/sarmadhamdani02/try-catch-error-snippet)** (VS Code Extension)  
+Automates try-catch block insertion, enhancing debugging and error handling.
+
+#### 🔹 **HealthBot.ai** (Final Year Project - AI Healthcare Chatbot)  
+AI-powered health assistant with symptom analysis and doctor recommendations.
+
+---
+
+### 🛠 Tech Stack
+#### **Languages & Tools**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230087C6.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📬 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/shah sarmad hamdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah sarmad hamdani" height="30" width="40" /></a>
-<a href="https://fb.com/shah sarmad hamdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shah sarmad hamdani" height="30" width="40" /></a>
-<a href="https://instagram.com/@sarmad_hamdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sarmad_hamdani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shah-sarmad-hamdani" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://fb.com/shah.sarmad.hamdani" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="https://instagram.com/sarmad_hamdani" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="mailto:sarmadfarooqhamdani@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🎯 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmadhamdani02&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmadhamdani02&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 💡 Fun Fact
+🔥 I love **problem-solving** and **building AI-powered apps**!
+
+---
