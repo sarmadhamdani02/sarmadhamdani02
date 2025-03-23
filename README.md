@@ -77,6 +77,10 @@ AI-powered health assistant with symptom analysis and doctor recommendations.
 <a href="https://linkedin.com/in/shah-sarmad-hamdani" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
+  <a href="https://instagram.com/sarmad_hamdani" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+
 <a href="mailto:sarmadfarooqhamdani@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
 </a>
