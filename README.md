@@ -36,15 +36,7 @@ BSc Computer Science, COMSATS Islamabad (2025) - CGPA 3.52
 
 ---
 
-### Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarmadhamdani02&theme=onestar&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ### Stack
 
@@ -126,19 +118,8 @@ BSc Computer Science, COMSATS Islamabad (2025) - CGPA 3.52
 
 ---
 
-### Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarmadhamdani02/sarmadhamdani02/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarmadhamdani02/sarmadhamdani02/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sarmadhamdani02/sarmadhamdani02/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
