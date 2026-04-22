@@ -30,11 +30,19 @@
 
 Currently at **Tally Marks Consulting** as an MTO handling SAP BASIS administration, automated monitoring, and internal tooling shipped to 1000+ employees. Also building client products at **Veloq** with modern web tech and AI-powered features.
 
-BSc Computer Science, COMSATS Islamabad (2025) — CGPA 3.52
-
-President, Microsoft Learn Student Ambassadors
+BSc Computer Science, COMSATS Islamabad (2025) - CGPA 3.52
 
 <br clear="right"/>
+
+---
+
+### Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarmadhamdani02&theme=onestar&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -103,6 +111,38 @@ President, Microsoft Learn Student Ambassadors
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sarmadhamdani02&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" />
 &nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmadhamdani02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=6" />
+
+</div>
+
+---
+
+### Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarmadhamdani02&theme=github-compact&hide_border=true&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=1a1a2e)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarmadhamdani02/sarmadhamdani02/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarmadhamdani02/sarmadhamdani02/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sarmadhamdani02/sarmadhamdani02/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
